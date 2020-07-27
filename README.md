@@ -16,5 +16,5 @@ Dog| `4000` | `2000`
 
 In order to execute the code:
 ```
-python abc1.py
+python abc 1.py
 ```
